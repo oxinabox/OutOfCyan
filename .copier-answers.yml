@@ -1,0 +1,35 @@
+# Changes here will be overwritten by Copier
+AddAllcontributors: false
+AddCitationCFF: false
+AddCodeOfConduct: false
+AddCompatHelperCI: false
+AddContributionDocs: false
+AddCopierCI: false
+AddDependabot: false
+AddDocs: true
+AddDocsCI: true
+AddFormatterAndLinterConfigFiles: false
+AddGitHubPRTemplate: false
+AddGitHubTemplates: false
+AddLintCI: false
+AddLychee: false
+AddMacToCI: false
+AddTagBotCI: true
+AddTestCI: true
+AddWinToCI: false
+Authors: Frames Catherine White
+AutoIncludeTests: false
+CheckExplicitImports: false
+JuliaMinCIVersion: lts
+JuliaMinVersion: '1.10'
+License: MIT
+LicenseCopyrightHolders: Frames Catherine White
+PackageName: OutOfCyan
+PackageOwner: oxinabox
+PackageUUID: f3df0a0d-e0b8-5fcf-923d-0f760760383e
+RunJuliaNightlyOnCI: false
+StrategyConfirmIncluded: true
+StrategyLevel: 0
+StrategyReviewExcluded: true
+UseCirrusCI: false
+_src_path: /home/frames/.julia/packages/BestieTemplate/jdG8v

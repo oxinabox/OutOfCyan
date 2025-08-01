@@ -1,0 +1,7 @@
+name = "OutOfCyan"
+uuid = "f3df0a0d-e0b8-5fcf-923d-0f760760383e"
+authors = ["Frames Catherine White"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"
