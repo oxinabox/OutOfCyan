@@ -34,6 +34,12 @@ function grey_hex(hex_color)
     return "#"*hex(grey)
 end
 
+function lume(hex_color)
+    rgb = parse(RGB, "#"*hex_color)
+    grey = convert(Gray, rgb)
+    return float(grey)
+end
+
 function color2texture(hex_color)
     rgb = parse(RGB, "#"*hex_color)
     grey = convert(Gray, rgb)
@@ -58,19 +64,23 @@ cur_scad = ""
 for (ii, (hex_color, paths)) in enumerate(colored_paths)
     svg_filename = joinpath(output_dir, "$ii-$color.svg")
     write_split_svg(svg_filename, og_doc, paths)
+
+    col = lume(hex_color)
     import_line = """color("#$hex_color") import("$svg_filename", center=false);"""
+    extrude_line = "linear_extrude(height=10) {scale(2) $import_line};"
     main_line = """
         intersection(){
             up(0.5)
-            textured_tile("hills", [125, 125, 2], tex_reps=40, anchor=FRONT+LEFT+BOTTOM);
-            linear_extrude(height=4) {scale(10) $import_line};
+            cuboid([125, 125, ($col)+0.5], anchor=FRONT+LEFT+BOTTOM);
+            //textured_tile("hills", [125, 125, 2], tex_reps=10, anchor=FRONT+LEFT+BOTTOM);
+            $extrude_line
         }
     """
     if !isempty(cur_scad)
         cur_scad = """
             union(){difference(){
                 $cur_scad
-                $import_line
+                $extrude_line
             };
             $main_line
         };
@@ -81,6 +91,16 @@ for (ii, (hex_color, paths)) in enumerate(colored_paths)
 end
 open(joinpath(output_dir, "image.scad"), "w") do scad_fh
     print(scad_fh, "include <BOSL2/std.scad>")
-    print(scad_fh, cur_scad)
+    print(
+        scad_fh,
+        """
+        difference(){
+            cube([20, 20, 2]);
+            up(0.1)
+            render(){$cur_scad};
+        }
+        """
+        
+    )
 end
 
