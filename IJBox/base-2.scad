@@ -22,14 +22,15 @@ b_c = 0.5 * b_t;
 b_lip = 0.7;
 b_h = box_k + b_lip + b_c;
 
-
+//Main box
 difference(){
+    //replace the `diff()` with `ghost_this()` while editting so can see what doing
     diff() cuboid(
         [total_depth, total_width, total_height],
         rounding=thickness/2,
         except=[FRONT, BACK]
     ){
-
+        //Shelves
         color("violet") tag("remove") position(FRONT+LEFT) orient(BACK) left(outer_thickness) cylinder(
             h=total_width, r=sharps_container_diameter/2,
             anchor=BOT + RIGHT
@@ -81,6 +82,8 @@ difference(){
                 );
             };
         };
+
+        // Text on front/back/sides
         zrot(180){
             color("black") tag("remove") position(TOP + FRONT) back(10)
                 text3d("Anticistamines", h=engrave*1.1, size=10, anchor=TOP);
@@ -108,14 +111,13 @@ difference(){
             }
         }
     };
-
+    //Image on top
     zrot(180) color("black") up(total_height/2 - engrave) 
         //times 1.1 is just to make more visible
         linear_extrude(engrave*1.1) scale(0.7) import("estradiol.svg", center=true);
 };
 
-
-
+// Add a lip to the open faces of the box with a grove for the lid to slide into
 for (k = [-1, 1])
     difference(){
         xrot(k*90) yrot(0) zrot(90)
@@ -126,7 +128,7 @@ for (k = [-1, 1])
     cuboid([total_depth + b_lip + 1000, total_width, total_height]);
 };
 
-
+// lids
 for (k = [-1, 1]) 
     back(total_width/2 + b_c + b_lip)
     up(-20 + k*80)
