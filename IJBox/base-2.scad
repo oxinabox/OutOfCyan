@@ -20,7 +20,12 @@ b_w = total_height;
 b_l = total_depth;
 b_c = 0.5 * b_t;
 b_lip = 0.7;
+lip_and_lid = b_lip + b_c + b_t;  // the lip, the rail cut-out, and the thickness of the lid
 b_h = box_k + b_lip + b_c;
+
+
+lock_hole_radius = 2;
+lock_hole_pos = (11.5 + lock_hole_radius);
 
 //Main box
 difference(){
@@ -83,6 +88,20 @@ difference(){
             };
         };
 
+        // locking holes
+        for (ii=[0, 1]) for (jj=[0, 1])
+        {
+            mirror([0, 0, ii]) mirror([0, jj, 0]) 
+            color("red") tag("remove") position(FRONT +LEFT + TOP)
+                back(lock_hole_pos-lip_and_lid) down(lock_hole_pos) 
+                zrot(45) orient(BACK) cylinder(
+                h=100, r=lock_hole_radius,
+                anchor= TOP + BOTTOM
+            );
+        }
+        //For working out location to put the locking holes::
+        //color("black") position(FRONT + TOP + LEFT) fwd(lip_and_lid) cuboid(lock_hole_pos, anchor=FRONT + TOP + LEFT);
+
         // Text on front/back/sides
         zrot(180){
             color("black") tag("remove") position(TOP + FRONT) back(10)
@@ -97,6 +116,9 @@ difference(){
                 
                 back(15) left(25) text3d("Boys: just raw", h=engrave*3, size=10, anchor=BACK);
                 right(5) text3d("materials for Girls", h=engrave*3, size=10, anchor=BACK);
+
+                fwd(25) left(11) text3d("Estradiol is magic:", h=engrave*3, size=10, anchor=BACK);
+                fwd(40) right(22) text3d("brestigitation", h=engrave*3, size=10, anchor=BACK);
             }
             
             color("black") tag("remove") orient(BACK)  position(RIGHT) yrot(90) down(0.1)
@@ -106,7 +128,7 @@ difference(){
             }
             color("black") tag("remove") orient(FRONT) position(RIGHT) yrot(90) down(0.1)
             {
-                left(20) back(25) text3d("Stab the girl", h=engrave*3, size=15, anchor=BACK);
+                left(15) back(25) text3d("Stab the girl", h=engrave*3, size=15, anchor=BACK);
                 right(5) fwd(3) text3d("For her health", h=engrave*3, size=15, anchor=BACK);
             }
         }
@@ -133,5 +155,19 @@ for (k = [-1, 1])
     back(total_width/2 + b_c + b_lip)
     up(-20 + k*80)
     right(70)
-    xrot(90) yrot(0) zrot(90)
-    lid(b_w, b_l, b_h, b_t, b_c, 0.2, b_c/6, 0);
+    difference(){
+        xrot(90) yrot(0) zrot(90) lid(b_w, b_l, b_h, b_t, b_c, 0.2, b_c/6, 0);
+
+        //XXX The positioning math is wrong here this is kinda hard coded
+        for (vp= [lock_hole_pos, total_height - lock_hole_pos])
+            color("black")
+            left(total_depth)
+            up(total_height)
+            left(lock_hole_pos - lip_and_lid - lock_hole_radius)
+            down(vp) 
+            fwd(lock_hole_pos + sqrt(2)/2)
+            yrot(90) xrot(-45) cylinder(
+                h=100, r=lock_hole_radius,
+                anchor= TOP + BOTTOM
+            );
+    }
