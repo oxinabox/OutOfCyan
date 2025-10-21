@@ -13,6 +13,16 @@ total_height = 2 * outer_thickness + sharps_container_diameter;
 half_width = total_width/2 - thickness/2;
 
 engrave = 0.5;
+
+box_k = 2*outer_thickness;
+b_t = outer_thickness;
+b_w = total_height;
+b_l = total_depth;
+b_c = 0.5 * b_t;
+b_lip = 0.7;
+b_h = box_k + b_lip + b_c;
+
+
 difference(){
     diff() cuboid(
         [total_depth, total_width, total_height],
@@ -21,7 +31,7 @@ difference(){
     ){
 
         color("violet") tag("remove") position(FRONT+LEFT) orient(BACK) left(outer_thickness) cylinder(
-            h=sharps_container_height, r=sharps_container_diameter/2,
+            h=total_width, r=sharps_container_diameter/2,
             anchor=BOT + RIGHT
         );
 
@@ -100,18 +110,12 @@ difference(){
     };
 
     zrot(180) color("black") up(total_height/2 - engrave) 
-        /*times 1.1 is just to make more visible*/
+        //times 1.1 is just to make more visible
         linear_extrude(engrave*1.1) scale(0.7) import("estradiol.svg", center=true);
 };
 
 
-box_k = outer_thickness + 0.1;
-b_t = outer_thickness;
-b_w = total_height;
-b_l = total_depth;
-b_c = 0.5 * b_t;
-b_lip = 0.7;
-b_h = box_k + b_lip + b_c;
+
 for (k = [-1, 1])
     difference(){
         xrot(k*90) yrot(0) zrot(90)
@@ -119,12 +123,13 @@ for (k = [-1, 1])
         fwd(b_l/2)
         up(total_width/2 - box_k)
     box(b_w, b_l, b_h, b_t,  b_c);
-    cuboid([total_depth, total_width, total_height]);
+    cuboid([total_depth + b_lip + 1000, total_width, total_height]);
 };
 
+
 for (k = [-1, 1]) 
-    back(total_width/2 + b_t/2)
+    back(total_width/2 + b_c + b_lip)
     up(-20 + k*80)
     right(70)
     xrot(90) yrot(0) zrot(90)
-    lid(b_w, b_l, b_h, b_t, b_c, 0.2, 0, 0);
+    lid(b_w, b_l, b_h, b_t, b_c, 0.2, b_c/6, 0);
