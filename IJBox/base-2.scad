@@ -24,7 +24,7 @@ lip_and_lid = b_lip + b_c + b_t;  // the lip, the rail cut-out, and the thicknes
 b_h = box_k + b_lip + b_c;
 
 
-lock_hole_radius = 2;
+lock_hole_radius = 3;
 lock_hole_pos = (11.5 + lock_hole_radius);
 
 //Main box
@@ -128,8 +128,8 @@ difference(){
             }
             color("black") tag("remove") orient(FRONT) position(RIGHT) yrot(90) down(0.1)
             {
-                left(15) back(25) text3d("Stab the girl", h=engrave*3, size=15, anchor=BACK);
-                right(5) fwd(3) text3d("For her health", h=engrave*3, size=15, anchor=BACK);
+                left(10) back(25) text3d("Stab the girl", h=engrave*3, size=15, anchor=BACK);
+                right(0) fwd(3) text3d("For her health", h=engrave*3, size=15, anchor=BACK);
             }
         }
     };
