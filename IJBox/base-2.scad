@@ -12,7 +12,8 @@ total_depth = 2*outer_thickness + 2*thickness + sharps_container_diameter + syri
 total_height = 2 * outer_thickness + sharps_container_diameter;
 half_width = total_width/2 - thickness/2;
 
-engrave = 0.5;
+engrave = true;
+engraving_depth = 0.5;
 
 box_k = 2*outer_thickness;
 b_t = outer_thickness;
@@ -103,40 +104,40 @@ difference(){
         //color("black") position(FRONT + TOP + LEFT) fwd(lip_and_lid) cuboid(lock_hole_pos, anchor=FRONT + TOP + LEFT);
 
         // Text on front/back/sides
-        zrot(180){
+        if (engrave) zrot(180){
             color("black") tag("remove") position(TOP + FRONT) back(10)
-                text3d("Anticistamines", h=engrave*1.1, size=10, anchor=TOP);
+                text3d("Anticistamines", h=engraving_depth*1.1, size=10, anchor=TOP);
             color("black") tag("remove") position(TOP + BACK) fwd(20)
-                text3d("Transition Fluid", h=engrave*1.1, size=10, anchor=TOP);
+                text3d("Transition Fluid", h=engraving_depth*1.1, size=10, anchor=TOP);
             
             color("black") tag("remove") position(BOTTOM) orient(DOWN)
             {   
-                back(50) left(25) text3d("Once a prince", h=engrave*3, size=10, anchor=BACK);
-                back(35) right(5) text3d("forever a princess", h=engrave*3, size=10, anchor=BACK);
+                back(50) left(25) text3d("Once a prince", h=engraving_depth*3, size=10, anchor=BACK);
+                back(35) right(5) text3d("forever a princess", h=engraving_depth*3, size=10, anchor=BACK);
                 
-                back(15) left(25) text3d("Boys: just raw", h=engrave*3, size=10, anchor=BACK);
-                right(5) text3d("materials for Girls", h=engrave*3, size=10, anchor=BACK);
+                back(15) left(25) text3d("Boys: just raw", h=engraving_depth*3, size=10, anchor=BACK);
+                right(5) text3d("materials for Girls", h=engraving_depth*3, size=10, anchor=BACK);
 
-                fwd(25) left(11) text3d("Estradiol is magic:", h=engrave*3, size=10, anchor=BACK);
-                fwd(40) right(22) text3d("brestigitation", h=engrave*3, size=10, anchor=BACK);
+                fwd(25) left(11) text3d("Estradiol is magic:", h=engraving_depth*3, size=10, anchor=BACK);
+                fwd(40) right(22) text3d("brestigitation", h=engraving_depth*3, size=10, anchor=BACK);
             }
             
             color("black") tag("remove") orient(BACK)  position(RIGHT) yrot(90) down(0.1)
             {
-                left(35) back(25) text3d("GIRL", h=engrave*3, size=25, anchor=BACK);
-                right(25) fwd(3) text3d("JUICE", h=engrave*3, size=25, anchor=BACK);
+                left(35) back(25) text3d("GIRL", h=engraving_depth*3, size=25, anchor=BACK);
+                right(25) fwd(3) text3d("JUICE", h=engraving_depth*3, size=25, anchor=BACK);
             }
             color("black") tag("remove") orient(FRONT) position(RIGHT) yrot(90) down(0.1)
             {
-                left(10) back(25) text3d("Stab the girl", h=engrave*3, size=15, anchor=BACK);
-                right(0) fwd(3) text3d("For her health", h=engrave*3, size=15, anchor=BACK);
+                left(10) back(25) text3d("Stab the girl", h=engraving_depth*3, size=15, anchor=BACK);
+                right(0) fwd(3) text3d("For her health", h=engraving_depth*3, size=15, anchor=BACK);
             }
         }
     };
     //Image on top
-    zrot(180) color("black") up(total_height/2 - engrave) 
+    if (engrave) zrot(180) color("black") up(total_height/2 - engraving_depth) 
         //times 1.1 is just to make more visible
-        linear_extrude(engrave*1.1) scale(0.7) import("estradiol.svg", center=true);
+        linear_extrude(engraving_depth*1.1) scale(0.7) import("estradiol.svg", center=true);
 };
 
 // Add a lip to the open faces of the box with a grove for the lid to slide into
