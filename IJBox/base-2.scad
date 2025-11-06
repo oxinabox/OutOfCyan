@@ -25,8 +25,9 @@ lip_and_lid = b_lip + b_c + b_t;  // the lip, the rail cut-out, and the thicknes
 b_h = box_k + b_lip + b_c;
 
 
-lock_hole_radius = 3;
-lock_hole_pos = (11.5 + lock_hole_radius);
+lock_hole_radius = 3.5;
+lock_hole_pos_v = (4.2 + lock_hole_radius);
+lock_hole_pos_h = (12.5 + lock_hole_radius);
 
 //Main box
 difference(){
@@ -94,7 +95,7 @@ difference(){
         {
             mirror([0, 0, ii]) mirror([0, jj, 0]) 
             color("red") tag("remove") position(FRONT +LEFT + TOP)
-                back(lock_hole_pos-lip_and_lid) down(lock_hole_pos) 
+                back(lock_hole_pos_h-lip_and_lid) down(lock_hole_pos_v) 
                 zrot(45) orient(BACK) cylinder(
                 h=100, r=lock_hole_radius,
                 anchor= TOP + BOTTOM
@@ -154,21 +155,23 @@ for (k = [-1, 1])
 // lids
 for (k = [-1, 1]) 
     back(total_width/2 + b_c + b_lip)
-    up(-20 + k*80)
-    right(70)
-    difference(){
+    up(k*80)
+    right(b_l/2)
+    down(b_w/2)
+    difference()
+    {
         xrot(90) yrot(0) zrot(90) lid(b_w, b_l, b_h, b_t, b_c, 0.2, b_c/6, 0);
 
         //XXX The positioning math is wrong here this is kinda hard coded
-        for (vp= [lock_hole_pos, total_height - lock_hole_pos])
+        for (vp= [lock_hole_pos_v, total_height - lock_hole_pos_v])
             color("black")
             left(total_depth)
             up(total_height)
-            left(lock_hole_pos - lip_and_lid - lock_hole_radius)
-            down(vp) 
-            fwd(lock_hole_pos + sqrt(2)/2)
-            yrot(90) xrot(-45) cylinder(
+            right(lock_hole_pos_h - lip_and_lid - 2.25)
+            down(vp)
+            yrot(90) xrot(-45)//xrot(-45)
+             cylinder(
                 h=100, r=lock_hole_radius,
-                anchor= TOP + BOTTOM
+                anchor= TOP + BOTTOM + BACK
             );
     }
