@@ -3,8 +3,8 @@ include <BOSL2/std.scad>
 
 inner_width = 28;
 inner_height = 13;
-inner_length = 150;
-thick=1.5;
+inner_length = 210;
+thick=2.5;
 round = thick;
 
 inner_dims = [inner_width, inner_height, inner_length];
