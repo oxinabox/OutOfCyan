@@ -854,3 +854,5 @@ use_count = 4
 (bambu-studio:2350547): Gtk-CRITICAL **: 17:52:19.252: gtk_widget_set_size_request: assertion 'width >= -1' failed
 
 (bambu-studio:2350547): Gtk-CRITICAL **: 17:52:19.252: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:2350547): Gtk-CRITICAL **: 21:18:20.266: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar

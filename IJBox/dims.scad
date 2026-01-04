@@ -13,7 +13,8 @@ needle_width_soft = 22;
 needle_length_hard = 60.25;
 needle_width_hard = 8.3;
 vial_length = 54.3;
-vial_diameter = 21.7 + 0.5;
+//vial_diameter = 21.7 + 0.5;  // original panacia vials
+vial_diameter = 23 + 0.5; // new pancia vials
 
 padding = 1;
 extra_padding = 8*padding;
