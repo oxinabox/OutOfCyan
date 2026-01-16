@@ -29,6 +29,8 @@ lock_hole_radius = 3.5;
 lock_hole_pos_v = (4.2 + lock_hole_radius);
 lock_hole_pos_h = (12.5 + lock_hole_radius);
 
+xrot(-90){
+
 //Main box
 difference(){
     //replace the `diff()` with `ghost_this()` while editting so can see what doing
@@ -175,3 +177,4 @@ for (k = [-1, 1])
                 anchor= TOP + BOTTOM + BACK
             );
     }
+}
