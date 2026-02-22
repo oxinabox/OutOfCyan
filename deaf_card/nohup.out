@@ -1,0 +1,1055 @@
+[2026-01-10 20:40:10.057531] [0x0000732b0e1d5480] [trace]   Initializing StaticPrintConfigs
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.238: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.239: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.239: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.244: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.244: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.245: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.251: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.252: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.253: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.265: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.266: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.267: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.303: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.305: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+** (bambu-studio:40333): CRITICAL **: 20:40:17.673: Cannot register URI scheme wxfs more than once
+
+** (bambu-studio:40333): CRITICAL **: 20:40:17.674: Cannot register URI scheme memory more than once
+
+** (bambu-studio:40333): CRITICAL **: 20:40:17.699: Cannot register URI scheme wxfs more than once
+
+** (bambu-studio:40333): CRITICAL **: 20:40:17.699: Cannot register URI scheme memory more than once
+
+** (bambu-studio:40333): CRITICAL **: 20:40:17.712: Cannot register URI scheme wxfs more than once
+
+** (bambu-studio:40333): CRITICAL **: 20:40:17.712: Cannot register URI scheme memory more than once
+
+** (bambu-studio:40333): CRITICAL **: 20:40:17.732: Cannot register URI scheme wxfs more than once
+
+** (bambu-studio:40333): CRITICAL **: 20:40:17.732: Cannot register URI scheme memory more than once
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.869: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.883: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.883: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.884: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.888: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.902: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.902: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.918: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.918: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.920: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.986: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:17.986: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.003: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.003: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.005: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.065: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.066: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.080: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.080: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.082: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.112: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.112: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.113: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.114: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.114: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.114: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.114: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.114: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.114: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.114: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.115: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.115: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.167: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.173: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:18.173: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.123: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.123: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.244: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.244: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.286: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.286: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.304: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.304: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.326: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.326: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.350: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.350: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.394: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.394: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.411: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:19.411: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+** (bambu-studio:40333): CRITICAL **: 20:40:20.112: Cannot register URI scheme wxfs more than once
+
+** (bambu-studio:40333): CRITICAL **: 20:40:20.112: Cannot register URI scheme memory more than once
+
+** (bambu-studio:40333): CRITICAL **: 20:40:20.125: Cannot register URI scheme wxfs more than once
+
+** (bambu-studio:40333): CRITICAL **: 20:40:20.125: Cannot register URI scheme memory more than once
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.628: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.629: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.629: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.633: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.633: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.633: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.636: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.636: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.636: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.639: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.640: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.640: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.651: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.651: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.651: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.654: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.655: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.655: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.658: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.658: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.658: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.661: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.662: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.662: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.666: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.666: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.666: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.670: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.672: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.672: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.678: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.679: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.679: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.682: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.683: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:20.683: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.457: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.458: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.458: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.465: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.466: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.466: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.472: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.473: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.473: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.476: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.476: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.476: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.485: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.486: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.486: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.489: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.489: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.489: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.492: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.492: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.492: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.496: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.496: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.496: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.503: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.504: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.504: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.512: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.513: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.513: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.520: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.521: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.521: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.527: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.527: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:21.527: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.592: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.697: gtk_window_resize: assertion 'width > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.697: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.697: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.697: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.698: gtk_window_resize: assertion 'width > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.698: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.703: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.706: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.706: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.708: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.709: gtk_window_resize: assertion 'width > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.710: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.710: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.710: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.718: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.730: gtk_window_resize: assertion 'width > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.730: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.731: gtk_window_resize: assertion 'width > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.731: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.731: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.732: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.734: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.735: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.735: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.736: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.736: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.736: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.736: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.736: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.736: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.857: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.860: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.860: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.899: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.910: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.910: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.955: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.957: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.957: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.959: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.960: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.960: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.960: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.960: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.976: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.977: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:22.977: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:23.029: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:23.030: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:23.031: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:23.057: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:23.059: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:23.059: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:25.900: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:25.900: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:25.901: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:25.901: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:25.901: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:34.830: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:34.835: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:34.873: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:34.875: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:34.905: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:34.917: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:34.918: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:34.964: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:34.965: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:34.966: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:34.982: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:34.983: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:34.987: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+add font of HarmonyOS_Sans_SC_Bold returns 1
+add font of HarmonyOS_Sans_SC_Regular returns 1
+after dlopen, network_module is 0x568bcb58ec10
+1. lo    : 127.0.0.1
+2. wlp0s20f3: 192.168.86.76
+3. docker0: 172.17.0.1
+
+use_count = 4
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:39.390: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:39.392: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:41.010: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:41.015: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:44.818: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:44.819: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:44.848: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:44.850: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:44.862: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:44.881: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:40:44.886: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:41:56.243: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:41:56.243: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:41:56.317: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:41:56.317: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:41:56.318: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:41:56.319: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:41:56.320: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:41:56.322: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.068: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.069: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.072: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.379: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.387: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.387: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.387: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.387: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.402: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.402: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.402: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.402: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.402: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.413: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.414: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.414: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.414: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.414: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.416: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.416: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.417: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.417: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.438: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.458: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.462: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.476: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.480: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.486: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.486: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.487: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.487: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.487: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.487: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.501: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.502: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:10.502: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:12.071: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:12.641: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:21.906: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:21.906: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.642: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.642: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.642: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.678: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.749: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.750: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.750: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.752: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.752: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.752: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.752: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.752: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.769: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.770: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.770: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.787: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.788: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.788: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.799: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.799: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:25.799: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:35.506: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:35.506: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:42:35.510: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:43:42.237: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:43:42.237: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:43:42.240: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:43:42.240: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:43:42.245: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:43:42.245: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.265: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.266: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.266: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.266: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.266: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.275: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.276: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.276: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.276: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.276: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.286: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.287: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.287: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.287: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.287: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.289: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.289: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.290: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.290: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.295: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.298: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.301: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.314: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.316: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.321: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.321: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.321: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.321: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.321: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.321: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.334: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.334: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:23.334: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.344: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.345: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.345: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.366: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.408: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.409: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.409: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.411: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.411: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.411: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.411: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.411: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.420: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.420: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.423: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.423: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.423: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.437: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.437: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.437: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.445: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.445: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:27.445: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 20:58:29.431: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:24:53.070: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:24:53.070: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:14.882: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:14.882: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:17.957: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:17.965: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:17.976: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:17.977: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:17.977: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:17.977: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:17.978: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:17.978: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:17.980: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:17.980: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:17.980: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:17.981: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:24.264: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:24.569: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:24.828: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:26.706: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:26.876: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 21:25:34.815: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:08:41.688: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:08:51.663: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:29:51.192: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:29:51.192: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:29:51.195: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:40.372: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:40.372: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.640: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.641: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.641: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.646: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.658: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.658: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.658: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.659: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.659: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.659: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.659: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.659: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.662: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.662: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.663: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.663: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.663: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.669: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.669: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.669: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.672: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.672: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:45.672: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:51.253: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:51.253: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:31:51.257: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:01.735: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:01.735: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:01.735: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:01.736: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:01.739: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:01.739: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:01.743: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:01.744: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:01.749: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:01.752: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:01.753: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:01.753: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:04.876: gtk_widget_set_allocation: assertion '_gtk_widget_get_visible (widget) || _gtk_widget_is_toplevel (widget)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:04.876: gtk_widget_set_allocation: assertion '_gtk_widget_get_visible (widget) || _gtk_widget_is_toplevel (widget)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:05.025: gtk_widget_set_allocation: assertion '_gtk_widget_get_visible (widget) || _gtk_widget_is_toplevel (widget)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:05.026: gtk_widget_set_allocation: assertion '_gtk_widget_get_visible (widget) || _gtk_widget_is_toplevel (widget)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:05.791: gtk_widget_set_allocation: assertion '_gtk_widget_get_visible (widget) || _gtk_widget_is_toplevel (widget)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:05.791: gtk_widget_set_allocation: assertion '_gtk_widget_get_visible (widget) || _gtk_widget_is_toplevel (widget)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:05.854: gtk_widget_set_allocation: assertion '_gtk_widget_get_visible (widget) || _gtk_widget_is_toplevel (widget)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:05.854: gtk_widget_set_allocation: assertion '_gtk_widget_get_visible (widget) || _gtk_widget_is_toplevel (widget)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.230: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.231: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.239: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.240: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.246: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.250: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.251: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.543: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.543: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.551: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.552: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.556: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.566: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.568: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:39.578: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:44.984: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:44.984: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.637: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.637: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.637: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.643: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.654: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.654: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.654: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.655: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.655: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.655: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.655: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.655: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.658: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.658: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.659: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.659: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.659: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.665: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.665: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.665: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.669: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.669: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:48.669: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:58.807: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:58.807: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:32:58.810: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:26.865: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:26.865: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:30.491: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:30.496: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:30.503: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:30.503: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:30.503: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:30.503: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:30.503: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:30.503: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:30.505: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:30.506: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:30.506: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:30.506: gtk_window_resize: assertion 'height > 0' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:40.988: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:40.988: gtk_widget_set_size_request: assertion 'width >= -1' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 22:33:40.990: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 11:44:56.359: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 11:44:56.359: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 11:44:56.374: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 11:44:56.374: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 11:44:56.379: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 11:44:56.382: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
+
+(bambu-studio:40333): Gtk-CRITICAL **: 11:44:56.383: gtk_cell_layout_get_cells: assertion 'GTK_IS_CELL_LAYOUT (cell_layout)' failed
