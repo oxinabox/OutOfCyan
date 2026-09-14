@@ -1,6 +1,5 @@
-base_radius = 5;
 p_dim=50;
-seed = 4;
+seed = 5;
 
 function two_d_normal(mseed) =
     let (
@@ -13,21 +12,20 @@ function two_d_normal(mseed) =
 function hadamard(a,b) = !is_list(a) ? a*b : [ for(i = [0:len(a)-1]) hadamard(a[i],b[i]) ]; 
 
 
-
-    for (ii = [1:20]){
-        p = p_dim * concat(hadamard([1,2],rands(0,1, 2, seed*ii)), [0]);
-        s = hadamard([2,2,1.4], rands(0.2, 1, 3, 1000*seed*ii));
-        translate(p)
-            scale(s)
-                 sphere(base_radius);
-    }
+for (ii = [1:50]){
+    s = 5*hadamard([5,5,1.4], rands(0.2, 1, 3, 1000*seed*ii));
+    pos = p_dim * hadamard([1,2],rands(0,1, 2, seed*ii));
+    translate([pos[0], pos[1], s[2]])
+        scale(s)
+                sphere(1);
+}
 
 %hull() {
-    for (ii = [1:20]){
-        p = p_dim * concat(hadamard([1,2],rands(0,1, 2, seed*ii)), [0]);
-        s = hadamard([2,2,1.4], rands(0.2, 1, 3, 1000*seed*ii));
-        translate(p)
+    for (ii = [1:50]){
+        s = 5*hadamard([5,5,1.4], rands(0.2, 1, 3, 1000*seed*ii));
+        pos = p_dim * hadamard([1,2],rands(0,1, 2, seed*ii));
+        translate([pos[0], pos[1], s[2]])
             scale(s)
-                 sphere(base_radius);
+                 sphere(1);
     }
 };
