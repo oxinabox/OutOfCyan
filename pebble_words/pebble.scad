@@ -27,7 +27,7 @@ module pebble(word, seed) {
             }
         };
         {
-            color("red")  translate([0,0, 1.2*s_z_max]) linear_extrude(10)
+            color("red")  translate([0,0, 0.8*s_z_max]) linear_extrude(10)
                 text(word, 10, halign="center", font="Noto Sans:style=Bold");
 
             color("green") for (side = [-1, 1])
@@ -38,4 +38,6 @@ module pebble(word, seed) {
 }
 
 //pebble("Trauma", 8);
-pebble("family", 8);
+//pebble("family", 8);
+
+pebble(word, seed);
