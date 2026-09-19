@@ -1,4 +1,7 @@
 to_print = [
+("saltwarter", 53000),
+("our", 25000),
+#==
 ("I", 1001),
 ("shout", 2000),
 ("we", 3000),
@@ -6,7 +9,6 @@ to_print = [
 ("shines", 5000),
 ("on", 6000),
 ("world", 7000),
-("shinesin", 8000),
 ("postcard", 9000),
 ("a", 10000),
 ("and", 11000),
@@ -23,7 +25,7 @@ to_print = [
 ("souls", 22000),
 ("think", 23000),
 ("all", 24000),
-("our", 25000),
+
 ("cover", 26000),
 ("all", 27000),
 ("can", 28000),
@@ -50,8 +52,22 @@ to_print = [
 ("make", 50000),
 ("scars", 51000),
 ("eyes", 52000),
-("saltwarter", 53000),
+
 ("green", 54000),
+]
+==#
+
+("transexual", 3000),
+("faggot", 3100),
+("people", 3200),
+("need", 3300),
+("are", 3400),
+("dream", 3500),
+("they", 3600),
+("who", 3700),
+("never", 3800),
+("autistic", 3900),
+("joy", 3950),
 ]
 
 pending = []
