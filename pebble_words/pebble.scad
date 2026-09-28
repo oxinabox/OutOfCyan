@@ -17,7 +17,7 @@ module pebble(word, seed) {
     magnet_offset = 10;
     difference(){
         hull() {
-            scale([2.4, 1.4]) for (ii = [1:30]){
+            scale([3, 1.8]) for (ii = [1:50]){
                 r = rands(0, 360, 1, 10*ii*seed)[0];
                 d = rands(0, 10, 1, 10*ii*seed +1)[0];
                 s = hadamard([7,14, s_z_max], rands(0.2, 1, 3, 1000*seed*ii));
@@ -41,5 +41,5 @@ module pebble(word, seed) {
 
 //pebble("Trauma", 8);
 //pebble("family", 9);
-
-pebble(word, seed);
+pebble("transexual", 383482274515);
+//pebble(word, seed);
