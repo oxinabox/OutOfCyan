@@ -9,9 +9,9 @@ module pebble(word, seed) {
     s_z_max = 7;
 
 
-    space=0.04;
+    space=0.05;
     magnet_radius= 3 + space;
-    magnet_height = 3 + space;
+    magnet_height = 2.55 + space;
 
     bottom_layer_thick = 0.2;
     magnet_offset = 10;
@@ -41,5 +41,5 @@ module pebble(word, seed) {
 
 //pebble("Trauma", 8);
 //pebble("family", 9);
-pebble("transexual", 383482274515);
-//pebble(word, seed);
+//pebble("transexual", 383482274515);
+pebble(word, seed);
